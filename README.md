@@ -149,9 +149,10 @@ The 2:1 Multiplexer and 1:2 Demultiplexer were realized using Verilog HDL:
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ## Output
+<img width="1920" height="1080" alt="EXPT-4" src="https://github.com/user-attachments/assets/473c6b3d-34d6-4aff-8064-aac79beb64d9" />
 
-<img width="611" height="321" alt="image" src="https://github.com/user-attachments/assets/498cca0d-185c-4301-8808-399e9a36c497" />
 
+ 
 ## Viva-Voce Questions
 
 •	What is a Multiplexer, and why is it called a 'data selector'?
